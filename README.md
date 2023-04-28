@@ -1,5 +1,9 @@
 # Mini Twitter Clone
 
+##
+- This project is more focused on me practicing the funtionality rather than appearance of the site 
+
+
 ## Technologies
 
 - Next.js
