@@ -1,4 +1,11 @@
-# Small Twitter Clone
+# Mini Twitter Clone
+
+## Technologies
+
+- Next.js
+- NextAuth.js
+- Prisma ORM
+- Tailwind CSS
 
 
 ### Features:
