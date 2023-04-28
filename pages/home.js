@@ -1,8 +1,7 @@
 import { useSession } from "next-auth/react";
+import NewTweet from "@/components/NewTweet";
 
 export default function Home() {
   const { data: session, status } = useSession();
-  return (
-    <div>{session ? <p>You are logged in!</p> : <p>Not logged in!</p>}</div>
-  );
+  return <div>{session ? <NewTweet /> : <p>Not logged in!</p>}</div>;
 }
