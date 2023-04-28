@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ca2cb24-ce41-4a50-9774-1d5e44c7cbb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/NewTweet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/tweet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tweet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tweets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="3.show-tweets" />
+                    <option name="lastUsedInstant" value="1682657019" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="2.create-tweet-allow-user" />
                     <option name="lastUsedInstant" value="1682648937" />
@@ -73,7 +75,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "2.create-tweet-allow-user",
+    "git-widget-placeholder": "3.show-tweets",
     "javascript.nodejs.core.library.configured.version": "19.4.0",
     "javascript.nodejs.core.library.typings.version": "18.16.1",
     "node.js.detected.package.eslint": "true",
@@ -97,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682571933487</updated>
-      <workItem from="1682571934922" duration="11336000" />
+      <workItem from="1682571934922" duration="12597000" />
     </task>
     <servers />
   </component>
